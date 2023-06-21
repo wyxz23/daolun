@@ -1,0 +1,50 @@
+.button-start,
+.button-end,
+.button-rhythm {
+  width: 200rpx;
+  height: 80rpx;
+  background-color: #26b461;
+  color: white;
+  font-size: 28rpx;
+  border: none;
+  border-radius: 10rpx;
+  margin-bottom: 10rpx;
+}
+
+.button-start {
+  background-color: #3498db;
+}
+
+.button-end {
+  background-color: #e74c3c;
+}
+
+.button-rhythm {
+  background-color: #e67e22;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container button {
+  width: 200rpx;
+  height: 60rpx;
+  background-color: #3498db;
+  color: white;
+  font-size: 24rpx;
+  border: none;
+  border-radius: 10rpx;
+  margin-top: 20px;
+}
+.container {
+    background-image: url('https://th.bing.com/th/id/R.362d88218b431bfbe9e506301939c909?rik=wL6bCNUvq8rPiQ&riu=http%3a%2f%2fwww.kuaipng.com%2fUploads%2fpic%2fb%2f2019%2f12-03%2f71333%2fbeijing_pic_71333_562.55_1000.jpg&ehk=Bd4Cn0hmAjLEpwOgMtlB27XbNbiMECcdrKDoZYAIJNM%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+  }
+  

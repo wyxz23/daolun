@@ -1,0 +1,9 @@
+
+
+
+<view class="container" style="width: 750rpx; height: 1179rpx; display: flex; box-sizing: border-box; position: relative; left: 0rpx; top: -10rpx">
+    <button bindtap="handleStart" class="button-start" style="position: relative; left: 0rpx; top: -186rpx">开始</button>
+  <button bindtap="handleEnd" class="button-end" style="position: relative; left: 0rpx; top: -106rpx">结束</button>
+  <button bindtouchstart="handleTouchStart" bindtouchend="handleTouchEnd" class="button-rhythm" style="position: relative; left: 0rpx; top: -52rpx">节奏</button>
+  <button bindtap="onPlayButtonTap" style="position: relative; left: 0rpx; top: 66rpx; width: 432rpx; height: 59rpx; display: block; box-sizing: border-box">查看密码</button>
+</view>
